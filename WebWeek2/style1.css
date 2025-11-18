@@ -1,0 +1,31 @@
+*{
+    font-family: Arial;
+}
+.logobox{
+    padding: 4%;width: 35%;float:left;background:greenyellow;
+}
+.emailbox{
+    padding: 4%;background: green;width: 35%;float:left;
+}
+.menu{
+    padding: 4%;background: red;width: 78%;float:left;
+}
+ul{
+    margin: 5px;padding: 0;
+}
+li{
+    list-style: none;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+    background: yellow;
+}
+.left{
+    padding: 4%;background: blue;width: 35%;float:left;
+}
+.right{
+    padding: 4%;background: grey;width: 35%;float:left;
+}
+footer{
+    padding: 4%;background: cyan;width: 78%;float:left;
+}
